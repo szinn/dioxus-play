@@ -21,3 +21,6 @@ mise.local.toml
 .idea
 .vscode
 .zed
+
+# Temporary files
+hotdog.db
