@@ -11,4 +11,4 @@ pipx_uvx = true
 "node" = "24"
 "npm:renovate" = "latest"
 "prettier" = "3.8.1"
-"protobuf" = "33.5"
+"protobuf" = "33.6"
